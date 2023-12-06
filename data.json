@@ -1,0 +1,3242 @@
+{
+    "body": "<canvas id=\"r\"></canvas><div id=\"r-v\"></div><main id=\"_\"><div id=\"ho\" class=\"p\"><div id=\"ho-c\"><h1 id=\"ho-t\"><span class=\"y_\"><span class=\"y\">A Design Studio</span></span><span class=\"y_\"><span class=\"y\">Devoted To Making The Most</span></span><span class=\"y_\"><span class=\"y\">Memorable Experiences</span></span><span class=\"y_\"><span class=\"y\">Within Our Time.</span></span></h1><div id=\"ho-l\"><div></div></div><div id=\"ho-b\" class=\"mo\"><div id=\"ho-b-l\"><div><div class=\"y_\"><div class=\"y\">LOCATIONS</div></div><div class=\"y_\"><div class=\"y\">TO &amp; CPH</div></div></div></div><div id=\"ho-b-le\"><div id=\"ho-b-s\" class=\"y_\"><div class=\"y\">SERVICES</div></div><ul id=\"ho-b-sl\"><li class=\"y_\"><div class=\"y\">SPRINTS</div></li><li class=\"y_\"><div class=\"y\">BRANDING</div></li><li class=\"y_\"><div class=\"y\">DIGITAL EXPERIENCES</div></li><li class=\"y_\"><div class=\"y\">PRODUCT DESIGN</div></li></ul></div></div><div id=\"ho-co\" class=\"mo\"><div id=\"ho-co-t\" class=\"y_ cu-z-s\"><div class=\"y\">CONTACT</div></div><div id=\"ho-co-c\"><div id=\"ho-co-c-b\" class=\"cu-z-s\"></div><div id=\"ho-co-c-a\"><svg><use xlink:href=\"#_s-pane-arrow\"></use></svg></div></div><div id=\"ho-co-c-m\">HI@28K.STUDIO</div><div id=\"ho-co-c-i\"><svg viewBox=\"0 0 19 17\"><polygon class=\"ho-co-c-i-p\" points=\"3,4 13,4 13,16 3,16 3,4 4,4 4,15 12,15 12,5 3,5\"/><polygon class=\"ho-co-c-i-p\" points=\"5.5,1 5.5,2 15,2 15,11.5 16,11.5 16,1\"/></svg></div></div></div></div></main><a id=\"logo\" class=\"cu-z-s\" href=\"/\"><svg viewBox=\"0 0 42 131\"><title>28k Logo</title><path class=\"st0\" d=\"M6.101,17.2c0-9.137,4.911-16.037,15.79-16.037c7.77,0,14.109,4.66,14.109,12.867c0,8.206-6.775,12.555-12.991,16.409c-4.166,2.487-8.142,4.849-9.387,8.641v0.123h21.879v5.782H4.983c0-8.082,4.911-13.613,13.116-18.771c7.272-4.413,10.876-6.216,10.876-11.934c0-3.544-1.367-7.336-7.272-7.336c-6.713,0-8.765,4.35-8.765,10.255H6.101V17.2z\"/><path class=\"st0\" d=\"M41,96.55H1v6.154h12.469l6.321,5.955L1,121.878v7.959l23.328-16.95L41,128.55v-7.64l-19.441-18.207H41V96.55z\"/><path class=\"st0\" d=\"M3.593,80.147c0-4.952,3.032-8.728,8.171-10.709c-4.395-1.918-6.995-5.322-6.995-9.718c0-6.995,6.314-11.7,15.722-11.7s15.723,4.705,15.723,11.7c0,4.395-2.6,7.799-6.995,9.718c5.137,1.982,8.171,5.819,8.171,10.709c0,7.552-6.685,12.567-16.898,12.567C10.28,92.714,3.593,87.699,3.593,80.147z M20.491,87.327c5.757,0,9.595-3.094,9.595-7.612c0-4.518-3.838-7.677-9.595-7.677s-9.533,3.094-9.533,7.677C10.958,84.297,14.796,87.327,20.491,87.327L20.491,87.327z M20.491,67.208c5.137,0,8.543-2.785,8.543-6.995c0-4.21-3.404-6.931-8.543-6.931s-8.541,2.785-8.541,6.931C11.949,64.359,15.415,67.208,20.491,67.208L20.491,67.208z\"/></svg></a><div id=\"d\" class=\"mo\"><div class=\"y_\"><div class=\"y\">WED<svg id=\"da-h\" viewBox=\"0 0 14 14\"><path d=\"M6.988,0.913C3.641,0.913,1,3.504,1,7c0,3.496,2.641,6.087,5.988,6.087S13,10.496,13,7C13,3.504,10.357,0.913,6.988,0.913z M6.988,12.055c-2.742,0-4.805-2.113-4.805-5.055c0-2.942,2.063-5.055,4.805-5.055S11.817,4.058,11.817,7C11.817,9.942,9.754,12.055,6.988,12.055z\"/><path d=\"M6.991,9.206c-1.157,0-1.998-0.896-1.998-2.133H3.789c0,1.904,1.376,3.337,3.202,3.337c1.827,0,3.214-1.434,3.214-3.337H9.001C9.001,8.329,8.175,9.206,6.991,9.206z\"/><path d=\"M4.91,6.237c0.466,0,0.843-0.378,0.843-0.843c0-0.466-0.378-0.843-0.843-0.843S4.066,4.928,4.066,5.393C4.066,5.859,4.444,6.237,4.91,6.237z\"/><path d=\"M9.007,6.237c0.466,0,0.843-0.378,0.843-0.843c0-0.466-0.378-0.843-0.843-0.843c-0.466,0-0.843,0.378-0.843,0.843C8.164,5.859,8.542,6.237,9.007,6.237z\"/></svg></div></div><div class=\"y_\"><div class=\"y\">DEC. 6</div></div><div class=\"y_\"><div class=\"y\">DAY 564</div></div></div><canvas id=\"c\"></canvas><div id=\"clock\"><div class=\"clock-step\"></div><div class=\"clock-step\"></div><div class=\"clock-step\"></div><div class=\"clock-step\"></div><div class=\"clock-step\"></div><div class=\"clock-step\"></div><div class=\"clock-step\"></div></div><div id=\"s\"></div><nav id=\"n\"><a class=\"n-l\" href=\"/work\"><div class=\"n-c_\"><div class=\"n-c\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\"><circle class=\"n-c-s\" r=\"6\" cx=\"7\" cy=\"7\"></circle></svg></div></div><div class=\"y_\"><div class=\"y\">Work</div></div></a><div id=\"n-ab\" class=\"n-l\"><div class=\"n-c_\"><div class=\"n-c\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\"><circle class=\"n-c-s\" r=\"6\" cx=\"7\" cy=\"7\"></circle></svg></div></div><div class=\"y_\"><div class=\"y\">Studio</div></div></div></nav><div id=\"ab\" class=\"pa__ pa__d\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><section id=\"ab-st\" class=\"pa-m pa-tm\"><div class=\"pa-lr z-y\"><div><h2 class=\"y_\"><span class=\"y\">Studio</span></h2></div><div><div class=\"pa-ye y_\"><div class=\"y\">Make It Count.</div></div><p class=\"z-s z-s-0-2\">We design digital Products, Brands, and Experiences Worth Remembering.</p></div></div></section><section id=\"ab-ab\" class=\"pa-m pa-se z-y z-y-0-2\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div class=\"pa-tm\"><h2 class=\"y_\"><span class=\"y\">About us</span></h2></div><div><div class=\"pa-tm pa-ye y_\"><div class=\"y\">A</div></div><p class=\"pa-ts z-s z-s-0-3\">Studio 28K is a Digital Design Studio founded by the Creative Directors; Jonas Emmertsen & Steffen Christiansen. Driven by the notion that life is only about twenty-eight thousand days long, we work with teams & talent across the globe to make memorable experiences that push the possibilities of Design, Technology & Storytelling.</p></div></div><div id=\"ab-ab-im_\"><div id=\"ab-ab-im\" class=\"z-o z-o-0-2\"><img class=\"o\" src=\"/static/media/ab/0.jpg\" alt=\"\"></div></div></section><section id=\"ab-se\" class=\"pa-se z-y\"><div class=\"pa-li pa-m\"><div></div></div><div class=\"pa-lr pa-tm pa-m\"><div><h2 class=\"y_\"><span class=\"y\">Services</span></h2></div><div class=\"y_\"><div class=\"pa-ye y\">B</div></div></div><ul class=\"ab-cs_\"><li class=\"ab-cs z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><h3 class=\"mo y_\"><span class=\"y\">SPRINTS</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">We paint the big picture within a small time frame. You provide the problem. We develop a solution. We offer various Creative Sprints — all short engagements that take you from Concept to Prototype in just a few weeks. Ready, set, sprint!<br />\n<br />\n◦ Product Innovation<br />\n◦ Concept Sprint<br />\n◦ Design Sprint<br />\n◦ Tech Discovery</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><h3 class=\"mo y_\"><span class=\"y\">BRANDING</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Most people spend more than 6 hours on screen in a day. That's why we built Brands born for the Digital Era. Balancing Expression and Utility, we design Identity Systems fit for the biggest screens and the smallest buttons.<br />\n<br />\n◦ Brand Strategy<br />\n◦ Concept<br />\n◦ Tone & Voice<br />\n◦ Design Direction<br />\n◦ Design Production<br />\n◦ Brand Guidelines</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><h3 class=\"mo y_\"><span class=\"y\">DIGITAL EXPERIENCES</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">In a sea of sameness, we help brands make lasting impressions by telling memorable stories across the web with interactive experiences. Mixing original ideas, meaningful design, and a pinch of purposeful animation, we create experiences that tickle the brain, please the eye, or even crack a smile.<br />\n<br />\n◦ Content Strategy & IA<br />\n◦ Concept<br />\n◦ User Experience<br />\n◦ Design Direction<br />\n◦ Design Production<br />\n◦ Development</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><h3 class=\"mo y_\"><span class=\"y\">PRODUCTS & PLATFORMS</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">A good Product makes it easy to get the job done. A great Product solves your problems in ways that feel like magic. We help brands build Products that solve problems and do so in memorable ways that spark joy, are worth your time, and make you wonder if wizards were involved.<br />\n<br />\n◦ Product Strategy & IA<br />\n◦ Concept<br />\n◦ User Experience<br />\n◦ Design Direction<br />\n◦ Design Production<br />\n◦ Development</p></div><div class=\"pa-li pa-m\"><div></div></div></li></ul></section><section id=\"ab-aw\" class=\"pa-se pa-m\"><div class=\"z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div class=\"pa-tm\"><h2 class=\"y_\"><span class=\"y\">Combined Awards</span></h2></div><div class=\"y_\"><div class=\"pa-tm pa-ye y\">C</div></div></div></div><ul id=\"ab-aw-li\"><li class=\"z-y z-y-0\"><div class=\"mo y_\"><div class=\"y\">FWA</div></div><div class=\"pa-tl y_\"><div class=\"y\">26</div></div><div class=\"pa-li\"><div></div></div></li><li class=\"z-y z-y-1\"><div class=\"mo y_\"><div class=\"y\">AWWWARDS</div></div><div class=\"pa-tl y_\"><div class=\"y\">23</div></div><div class=\"pa-li\"><div></div></div></li><li class=\"z-y z-y-2\"><div class=\"mo y_\"><div class=\"y\">THE WEBBYS</div></div><div class=\"pa-tl y_\"><div class=\"y\">06</div></div><div class=\"pa-li\"><div></div></div></li><li class=\"z-y z-y-3\"><div class=\"mo y_\"><div class=\"y\">DA&D</div></div><div class=\"pa-tl y_\"><div class=\"y\">02</div></div><div class=\"pa-li\"><div></div></div></li><li class=\"z-y z-y-0\"><div class=\"mo y_\"><div class=\"y\">CREATIVE CIRCLE</div></div><div class=\"pa-tl y_\"><div class=\"y\">29</div></div><div class=\"pa-li\"><div></div></div></li><li class=\"z-y z-y-1\"><div class=\"mo y_\"><div class=\"y\">CANNES LIONS</div></div><div class=\"pa-tl y_\"><div class=\"y\">02</div></div><div class=\"pa-li\"><div></div></div></li><li class=\"z-y z-y-2\"><div class=\"mo y_\"><div class=\"y\">THE ONE SHOW</div></div><div class=\"pa-tl y_\"><div class=\"y\">07</div></div><div class=\"pa-li\"><div></div></div></li><li class=\"z-y z-y-3\"><div class=\"mo y_\"><div class=\"y\">AGENCY OF THE YEAR</div></div><div class=\"pa-tl y_\"><div class=\"y\">01</div></div><div class=\"pa-li\"><div></div></div></li></ul></section><section id=\"ab-pr_\" class=\"pa-se\"><div class=\"pa-li pa-m z-x\"><div class=\"x\"></div></div><div class=\"ab-pr\"><div class=\"pa-lr pa-tm pa-m z-y\"><div><h2 class=\"y_\"><span class=\"y\">Our Principles</span></h2></div><div><div class=\"pa-ye y_\"><div class=\"y\">D.1</div></div><div class=\"y_\"><div class=\"y\">01 — 07</div></div></div></div><ul class=\"ab-cs_\"><li class=\"ab-cs z-y z-y-0 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">01</div></div><h3 class=\"mo y_\"><span class=\"y\">HAVE FUN, SERIOUSLY!</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">If you’re not having fun making it, nobody else will enjoy using it.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-1 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">02</div></div><h3 class=\"mo y_\"><span class=\"y\">SEEK THE UNEXPECTED</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Surprise yourself, your team, and your client. Challenge the brief and present a direction different from what one would expect.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-2 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">03</div></div><h3 class=\"mo y_\"><span class=\"y\">KEEP IT NIMBLE</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Staff your projects with as small a team as possible. Too many cooks in the kitchen ruin the food.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-3 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">04</div></div><h3 class=\"mo y_\"><span class=\"y\">CREATIVITY LEADS</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">We are a creatively led business, and we measure and structure our company as such.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-4 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">05</div></div><h3 class=\"mo y_\"><span class=\"y\">MAKE PROCESSES FUN</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Gamify work processes to make daily life more fun and inspiring.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-5 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">06</div></div><h3 class=\"mo y_\"><span class=\"y\">CHALLENGE THE RULES</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">The internet is too young to be defined. What was best practice yesterday is irrelevant tomorrow. Don’t always stick to rules of the past.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-6 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">07</div></div><h3 class=\"mo y_\"><span class=\"y\">BALANCE MAKES BETTER</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Life outside of 28K is as important as the inside. There’s a new day tomorrow, and a rested mind creates better ideas.</p></div><div class=\"pa-li pa-m\"><div></div></div></li></ul></div><div class=\"ab-pr ab-pr-m\"><div class=\"pa-lr pa-tm pa-m z-y\"><div></div><div><div class=\"pa-ye y_\"><div class=\"y\">D.2</div></div><div class=\"y_\"><div class=\"y\">08 — 14</div></div></div></div><ul class=\"ab-cs_\"><li class=\"ab-cs z-y z-y-0 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">08</div></div><h3 class=\"mo y_\"><span class=\"y\">TALENTS OVER TITLES</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Titles are cool, but skills are cooler. Cast teams based on people’s skills, not the words on their business cards.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-1 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">09</div></div><h3 class=\"mo y_\"><span class=\"y\">WORK IN UNISON</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Don’t pass off the baton. Carry your projects and problems together. Collaborate, solve, and develop better solutions.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-2 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">10</div></div><h3 class=\"mo y_\"><span class=\"y\">DON’T OVERCOMPLICATE IT</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Don’t waste people’s time with unnecessary complexity. If a Process can be done better simply, do it.  The job is not to be in meetings; it’s to create, concentrate and carry the project forward.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-3 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">11</div></div><h3 class=\"mo y_\"><span class=\"y\">BE PROFESSIONAL, STAY PERSONABLE</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">We’re serious about work but seriously not interested in working with corporate duds. Be your whole self. We don’t judge.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-4 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">12</div></div><h3 class=\"mo y_\"><span class=\"y\">LEAVE THE AGENDA AT CITY HALL</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Curiosity and collaboration die with politics. Wanna be a politician? Cool, we’ll recommend you at City Hall.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-5 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">13</div></div><h3 class=\"mo y_\"><span class=\"y\">TAKE CRITICISM POSITIVELY</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Our work is not a reflection of ourselves, no matter how much of ourselves we put into it. Turn feedback into better work.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-6 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">14</div></div><h3 class=\"mo y_\"><span class=\"y\">CHANGE YOUR MIND</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">You are not opinions. With new information comes new perspectives. Discovering you are wrong is one step closer to being right.</p></div><div class=\"pa-li pa-m\"><div></div></div></li></ul></div><div class=\"ab-pr ab-pr-m\"><div class=\"pa-lr pa-tm pa-m z-y\"><div></div><div><div class=\"pa-ye y_\"><div class=\"y\">D.3</div></div><div class=\"y_\"><div class=\"y\">15 — 21</div></div></div></div><ul class=\"ab-cs_\"><li class=\"ab-cs z-y z-y-0 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">15</div></div><h3 class=\"mo y_\"><span class=\"y\">KEEP LEARNING</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Don’t ever think you’ve reached perfection. There’s always room for growth. Keep pursuing knowledge till the day you’re gone.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-1 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">16</div></div><h3 class=\"mo y_\"><span class=\"y\">EMBRACE DEBATE</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Have opinions, and be open to other views than yours. Debate is not arguing. We can all learn something new.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-2 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">17</div></div><h3 class=\"mo y_\"><span class=\"y\">SHOW BEST INTENT</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">People and cultures are different. Be curious, learn, and put forward your best intentions. People are not out to get you.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-3 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">18</div></div><h3 class=\"mo y_\"><span class=\"y\">SHARE KNOWLEDGE</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Suppose it’s a link, a recourse, a podcast, or a book. Share it! The person next to you might get more value than yourself.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-4 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">19</div></div><h3 class=\"mo y_\"><span class=\"y\">SHAPE YOUR FUTURE</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Projects are diamonds in the rough. It’s your responsibility to shape them into gems.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-5 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">20</div></div><h3 class=\"mo y_\"><span class=\"y\">SILENCE AFTER SIX</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">When we leave work physically, we also leave work digitally. Having time OFF means better time ON.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-6 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">21</div></div><h3 class=\"mo y_\"><span class=\"y\">UNKNOWN FORMULAR</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">The secret to success can’t be broken down into a formula. Find success by breaking your comfort zone and navigating the unknown.</p></div><div class=\"pa-li pa-m\"><div></div></div></li></ul></div><div class=\"ab-pr ab-pr-m\"><div class=\"pa-lr pa-tm pa-m z-y\"><div></div><div><div class=\"pa-ye y_\"><div class=\"y\">D.4</div></div><div class=\"y_\"><div class=\"y\">22 — 28</div></div></div></div><ul class=\"ab-cs_\"><li class=\"ab-cs z-y z-y-0 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">22</div></div><h3 class=\"mo y_\"><span class=\"y\">IT’S A MATTER OF ANGLE</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Find a new angle on an old problem. There is nothing an audience won’t care about as long as you interest them.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-1 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">23</div></div><h3 class=\"mo y_\"><span class=\"y\">THINK IN MOTION</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">People live lives in a sequence; therefore, we make storyboards instead of wireframes.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-2 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">24</div></div><h3 class=\"mo y_\"><span class=\"y\">EXPERIMENT</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Have an idea but not sure how to get there? Experiment, learn from failure, and know results will eventually come.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-3 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">25</div></div><h3 class=\"mo y_\"><span class=\"y\">FORM IS FUNCTION. FUNCTION IS FORM</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">We don’t separate Creative from UX. Design as a discipline is the holistic combination of form & function. Our team operates holistically.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-4 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">26</div></div><h3 class=\"mo y_\"><span class=\"y\">NO COMMITTEES</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Decisions can be hard, but no good decision ever comes from a committee. Embrace debate and know that the lead has the final call.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-5 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">27</div></div><h3 class=\"mo y_\"><span class=\"y\">IDEAS ARE TO BE MADE</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Do you sometimes get a good idea but don’t have the time to make it? Pitch it, and let’s make it happen.</p></div><div class=\"pa-li pa-m\"><div></div></div></li><li class=\"ab-cs z-y z-y-6 z-o cu-z-s\"><div class=\"ab-cs-la pa-m\"><div class=\"ab-cs-la-no mo y_\"><div class=\"y\">28</div></div><h3 class=\"mo y_\"><span class=\"y\">DON’T RINSE & REPEAT. THINK & PROCEED</span></h3><div class=\"ab-cs-la-cr o\"><svg><use xlink:href=\"#_s-pane-collapse\"></use></svg></div></div><div class=\"pa-m cu-z-s\"><p class=\"ab-cs-p pa-txs\">Just because it worked last time is not a guarantee it will work again. Always consider the context before the method.</p></div><div class=\"pa-li pa-m\"><div></div></div></li></ul></div><div id=\"ab-mo\" class=\"pa-m z-o\"><div id=\"ab-mo-l\"><div id=\"ab-mo-l-c\" class=\"mo o\"><span>SEE ALL</span> (28)</div></div><div id=\"ab-mo-r\" class=\"o cu-z-s\"><svg viewBox=\"0 0 30 30\"><circle cx=\"10\" cy=\"15\" r=\"1.5\"/><circle cx=\"15\" cy=\"15\" r=\"1.5\"/><circle cx=\"20\" cy=\"15\" r=\"1.5\"/></svg></div></div></section><section id=\"ab-co\" class=\"pa-se pa-m z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr pa-tm\"><div><h2 class=\"y_\"><span class=\"y\">Contact</span></h2></div><div><div class=\"pa-ye z-y y_\"><div class=\"y\">E</div></div><div class=\"pa-ts\"><div id=\"ab-co-em\" class=\"z-y\"><a class=\"cu-z-s\" href=\"mailto:hi@28k.studio\"><div class=\"y_\"><div class=\"y\">Say Hello</div></div><div class=\"y_\"><div class=\"y\">Hi@28K.studio</div></div></a><a class=\"cu-z-s\" href=\"mailto:biz@28k.studio\"><div class=\"y_\"><div class=\"y\">Projects</div></div><div class=\"y_\"><div class=\"y\">Biz@28K.studio</div></div></a></div><div id=\"ab-co-so\" class=\"z-y\"><a class=\"ab-co-so-a y_ cu-z-s\" href=\"https://www.linkedin.com/company/studio28k\" target=\"_blank\" rel=\"noopener\"><div class=\"y\"><div class=\"ab-co-so-na\">Linkedin</div><div class=\"ab-co-so-ar\"><svg viewBox=\"0 0 16 13\"><polygon points=\"9.5,0.146 8.793,0.854 13.939,6 0.147,6 0.147,7 13.939,7 8.793,12.146 9.5,12.854 15.853,6.5\"/></svg></div></div></a><a class=\"ab-co-so-a y_ cu-z-s\" href=\"https://www.instagram.com/28kstudio\" target=\"_blank\" rel=\"noopener\"><div class=\"y\"><div class=\"ab-co-so-na\">Instagram</div><div class=\"ab-co-so-ar\"><svg viewBox=\"0 0 16 13\"><polygon points=\"9.5,0.146 8.793,0.854 13.939,6 0.147,6 0.147,7 13.939,7 8.793,12.146 9.5,12.854 15.853,6.5\"/></svg></div></div></a><a class=\"ab-co-so-a y_ cu-z-s\" href=\"https://twitter.com/28Kstudio\" target=\"_blank\" rel=\"noopener\"><div class=\"y\"><div class=\"ab-co-so-na\">Twitter</div><div class=\"ab-co-so-ar\"><svg viewBox=\"0 0 16 13\"><polygon points=\"9.5,0.146 8.793,0.854 13.939,6 0.147,6 0.147,7 13.939,7 8.793,12.146 9.5,12.854 15.853,6.5\"/></svg></div></div></a><a class=\"ab-co-so-a y_ cu-z-s\" href=\"https://www.behance.net/28k-studio\" target=\"_blank\" rel=\"noopener\"><div class=\"y\"><div class=\"ab-co-so-na\">Behance</div><div class=\"ab-co-so-ar\"><svg viewBox=\"0 0 16 13\"><polygon points=\"9.5,0.146 8.793,0.854 13.939,6 0.147,6 0.147,7 13.939,7 8.793,12.146 9.5,12.854 15.853,6.5\"/></svg></div></div></a></div></div></div></div></section><div class=\"ab-lo pa-se pa-m\"><div class=\"z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr pa-tm\"><div><div class=\"y_\"><div class=\"y\"><span class=\"ab-lo-xl\">Toronto</span> <span class=\"ab-lo-xs\">TO</span></div></div><div class=\"y_\"><div class=\"ab-lo-gr y\"><span class=\"ab-lo-xl\">Canada</span> <span class=\"ab-lo-xs\">CA</span></div></div></div><div class=\"ab-lo-ri\"><div><div class=\"y_\"><div class=\"ab-lo-gr y\">North America</div></div><div class=\"y_\"><div class=\"ab-lo-ri-rt y\"><div>12</div><div>:</div><div>33</div></div></div><div class=\"ab-lo-ri-ti y_\"><div class=\"y\">EST</div></div></div></div></div></div></div><div class=\"ab-lo pa-se pa-m\"><div class=\"z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr pa-tm\"><div><div class=\"y_\"><div class=\"y\"><span class=\"ab-lo-xl\">Copenhagen</span> <span class=\"ab-lo-xs\">CPH</span></div></div><div class=\"y_\"><div class=\"ab-lo-gr y\"><span class=\"ab-lo-xl\">Denmark</span> <span class=\"ab-lo-xs\">DK</span></div></div></div><div class=\"ab-lo-ri\"><div><div class=\"y_\"><div class=\"ab-lo-gr y\">Europe</div></div><div class=\"y_\"><div class=\"ab-lo-ri-rt y\"><div>18</div><div>:</div><div>33</div></div></div><div class=\"ab-lo-ri-ti y_\"><div class=\"y\">CET</div></div></div></div></div></div></div><div id=\"ab-fo\" class=\"pa-m z-y\"><div id=\"ab-fo-0\" class=\"y_\"><div class=\"y\">©2023</div></div><div id=\"ab-fo-1\" class=\"ab-fo-gr y_\"><div class=\"y\">ADDRESS</div></div><a id=\"ab-fo-2\" class=\"cu-z-s\" target=\"_blank\" rel=\"noopener\" aria-label=\"28k on Google Map\" href=\"https://www.google.com/maps/search/28k+aps+sankt+j%C3%B8rgens+all%C3%A9+5d+1615+copenhagen+denmark/@55.6736467,12.5565833,17z/data=!3m1!4b1?entry=ttu\"><div class=\"y_\"><div class=\"y\">28K APS</div></div><div class=\"y_\"><div class=\"y\">SANKT JØRGENS ALLÉ 5D</div></div><div class=\"y_\"><div class=\"y\">1615 COPENHAGEN</div></div><div class=\"y_\"><div class=\"y\">DENMARK</div></div></a><div id=\"ab-fo-3\"><div class=\"y_\"><div class=\"ab-fo-gr y\">VAT NO.</div></div><div class=\"y_\"><div class=\"y\">DK45087867</div></div></div></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div><div id=\"cu-m_\" class=\"cu\"><svg id=\"cu-m\" viewBox=\"0 0 77 104\"><polygon class=\"cu-m-po\" points=\"28.5,51.496 28.5,52.496 39,52.496 39,41.996 38,41.996 38,51.496\"/><polygon class=\"cu-m-po\" points=\"48.5,51.496 38,51.486 38,61.996 39,61.996 39,52.496 48.5,52.496\"/></svg> <svg id=\"cu-p\" viewBox=\"0 0 77 104\"><circle cx=\"38.5\" cy=\"51.996\" r=\"1.5\"/></svg></div><div id=\"cu\" class=\"cu\"><svg id=\"cu-c\" viewBox=\"0 0 77 104\"><circle id=\"cu-c-ci\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\" cx=\"38.5\" cy=\"52\" r=\"37\"/></svg> <svg id=\"cu-a-t\" class=\"cu-a\" viewBox=\"0 0 77 15\"><path d=\"M42.5,9.5l-4-4.001l-4,4.001H42.5z\"/></svg> <svg id=\"cu-a-b\" class=\"cu-a\" viewBox=\"0 0 77 15\"><path d=\"M34.5,5.501l4,4l4-4H34.5z\"/></svg></div><svg id=\"_s\" width=\"0\" height=\"0\"><symbol id=\"_s-pane-collapse\" viewBox=\"0 0 16 16\"><polygon points=\"16,7.5 8.5,7.5 8.5,0 7.5,0 7.5,7.5 0,7.5 0,8.5 7.5,8.5 7.5,16 8.5,16 8.5,8.5 16,8.5\"/></symbol><symbol id=\"_s-pane-arrow\" viewBox=\"0 0 17 14\"><polygon points=\"10,0.646 9.293,1.354 14.439,6.5 0.647,6.5 0.647,7.5 14.439,7.5 9.293,12.646 10,13.354 16.353,7\"/></symbol></svg>",
+    "cache": {
+      "/work/madklubben": {
+        "title": "28k — Explore Denmark's Premier Restaurant Collective - Madklubben",
+        "html": "<div class=\"ca p\"><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/834003083/rendition/1080p/file.mp4?loc=external&signature=417b2d2fe1dc9e951b43cea85ba990a119428d55e2559c0550b533c06459753a\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/834003083/rendition/1080p/file.mp4?loc=external&signature=417b2d2fe1dc9e951b43cea85ba990a119428d55e2559c0550b533c06459753a\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/834003083/rendition/1080p/file.mp4?loc=external&signature=417b2d2fe1dc9e951b43cea85ba990a119428d55e2559c0550b533c06459753a\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"side\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/e6b77a23-d04e-4edc-832a-11da2bc7f24e_madklubben-1-landscape-1.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/16d7a9f6-e7f0-4dfb-a1b9-9998ddb331a9_madklubben-1-portrait-1.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/9343f51a-0da8-40bd-ba2d-4e67fb9d4f14_madklubben-1-landscape-2.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/da517dea-f987-47ff-aaaf-097599f77231_madklubben-1-portrait-2.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/834005404/rendition/1080p/file.mp4?loc=external&signature=08753329d9efb9298608903c102df584429a65f8eeb58b3cc6c73ef7549e71b3\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/834005404/rendition/1080p/file.mp4?loc=external&signature=08753329d9efb9298608903c102df584429a65f8eeb58b3cc6c73ef7549e71b3\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/834005404/rendition/1080p/file.mp4?loc=external&signature=08753329d9efb9298608903c102df584429a65f8eeb58b3cc6c73ef7549e71b3\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/f940e6e8-b3ad-4a66-94a7-5a903047f5d5_madklubben-2-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/9d3b624c-10ca-49eb-9f32-7fe27890e746_madklubben-2-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/0c819cab-b046-492d-a98a-c505ee2d1ed1_madklubben-3-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/1d270e22-786c-4057-b260-78db9e77ed41_madklubben-3-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/330ddf26-da32-45f8-aeea-901f2187ccb8_madklubben-4-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/21f57bd9-7105-4bce-bafc-52f40a450abb_madklubben-4-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/685441f3-b5a3-476c-bf02-ef36531b35e0_madklubben-5-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/2256392e-ed3e-46a9-b989-66e5b38aa065_madklubben-5-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-n_\"><div class=\"ca-n ca-n-i cu-z-s\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-i-cu\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-cu\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-cu\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/><polygon class=\"ca-n-i-ov\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-ov\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-ov\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/></svg></div><a class=\"ca-n ca-n-c cu-z-s\" href=\"/work\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-c-cu\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-cu\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/><polygon class=\"ca-n-c-ov\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-ov\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/></svg></a></div><div class=\"ca-pr\"><div></div></div><div class=\"ca-in pa__ pa__l\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><header class=\"ca-t pa-m pa-tm z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div><div class=\"y_\"><div class=\"y\">Platform</div></div></div><div><h1><span class=\"y_\"><span class=\"y pa-gr\">Madklubben</span></span><span class=\"y_\"><span class=\"y\">Restaurant Portal</span></span></h1></div></div></header><div class=\"ca-b\"><div class=\"ca-b-m pa-m z-y\"><div class=\"pa-li\"><div></div></div><p class=\"pa-ts pa-gr z-s z-s-3\">Madklubben is Denmark's biggest restaurant collective, serving various cuisines from East to West. With 35+ restaurants nationwide, the team needed a new digital home to bring all their restaurants under one roof.\n\nWe aided Madklubben in creating an exceptional Digital Experience that matched their restaurant's excellence. From browsing to booking, the new site ensured nobody left the table hungry. Bon appétit!</p><div class=\"ca-b-m-v z-o z-o-3\"><div class=\"pa-tca o\">VISIT SITE</div><a class=\"ca-b-m-v-c o cu-z-s\" href=\"https://www.madklubben.dk/\" target=\"_blank\" rel=\"noopener\" aria-label=\"Explore the website\"><svg><use xlink:href=\"#_s-pane-arrow\"></use></svg></a></div></div><footer class=\"ca-b-f pa-m pa-tca z-y\"><div class=\"pa-li\"><div></div></div><div class=\"ca-b-f-c\"><div class=\"pa-gr y_\"><div class=\"y\">CLIENT</div></div><div class=\"y_\"><div class=\"y\">MADKLUBBEN</div></div></div><div class=\"ca-b-f-s\"><div class=\"pa-gr y_\"><div class=\"y\">SERVICES</div></div><div><div class=\"y_\"><div class=\"y\">CONCEPT</div></div><div class=\"y_\"><div class=\"y\">IA & USER EXPERIENCE</div></div><div class=\"y_\"><div class=\"y\">ART DIRECTION</div></div><div class=\"y_\"><div class=\"y\">DESIGN</div></div></div></div><div class=\"ca-b-f-y y_\"><div class=\"y\">2022</div></div></footer></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div></div>"
+      },
+      "/work/espn-year-in-review": {
+        "title": "28k — Experience the Best of 2022 in Sports with ESPN - Year In Review",
+        "html": "<div class=\"ca p\"><div class=\"ca-media__\" data-t=\"side\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/831486615/rendition/1080p/file.mp4?loc=external&signature=c8a014fbfe32b3b1eddec6ac99e59c6ff5cc5fbc46a252ed5149083da13bf8d9\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/831486615/rendition/1080p/file.mp4?loc=external&signature=c8a014fbfe32b3b1eddec6ac99e59c6ff5cc5fbc46a252ed5149083da13bf8d9\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/831486615/rendition/1080p/file.mp4?loc=external&signature=c8a014fbfe32b3b1eddec6ac99e59c6ff5cc5fbc46a252ed5149083da13bf8d9\" preload=\"metadata\" playsinline loop muted></video></div><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/831486615/rendition/1080p/file.mp4?loc=external&signature=c8a014fbfe32b3b1eddec6ac99e59c6ff5cc5fbc46a252ed5149083da13bf8d9\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/831486615/rendition/1080p/file.mp4?loc=external&signature=c8a014fbfe32b3b1eddec6ac99e59c6ff5cc5fbc46a252ed5149083da13bf8d9\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/831486615/rendition/1080p/file.mp4?loc=external&signature=c8a014fbfe32b3b1eddec6ac99e59c6ff5cc5fbc46a252ed5149083da13bf8d9\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/d4872d08-cca9-4cb7-af7a-1e7dc0e4df57_espn-yir-1-landscape.jpg?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/ab5166dd-9dea-4a00-b3d4-6da33633c382_espn-yir-1-portrait.jpg?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/8c0e9628-8273-4f7c-8998-47ee5f24526b_espn-yir-2-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/e8aa13d3-9a03-4f19-9b61-6ca5ab2df213_espn-yir-2-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"side\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/483e1a76-dd49-42c6-9a61-bba1e13931a7_espn-yir-3-landscape-1.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/86c1c48e-2b42-400b-a6ee-73632a3724a2_espn-yir-3-portrait-1.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/40e3b67b-c98d-49fa-b8d6-889c4efaba74_espn-yir-3-landscape-2.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/3626c81e-5f40-4dac-8168-0a59731e96fa_espn-yir-3-portrait-2.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/833583416/rendition/1080p/file.mp4?loc=external&signature=6b8ae2b36e1510da858caa12267821e889f1d44b8155a67c747429362cf13cdf\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/833583416/rendition/1080p/file.mp4?loc=external&signature=6b8ae2b36e1510da858caa12267821e889f1d44b8155a67c747429362cf13cdf\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/833583416/rendition/1080p/file.mp4?loc=external&signature=6b8ae2b36e1510da858caa12267821e889f1d44b8155a67c747429362cf13cdf\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/5330575a-d0db-489b-ad38-c7df83ac15e8_espn-yir-4-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/cb3d5af7-1bbf-4c14-aa9c-c5f3e1c3d035_espn-yir-4-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/831503864/rendition/1080p/file.mp4?loc=external&signature=727c492c23ffb3f9f4ffc983e081104b438289e67ece9633fedfff24a8d3bbf1\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/831503864/rendition/1080p/file.mp4?loc=external&signature=727c492c23ffb3f9f4ffc983e081104b438289e67ece9633fedfff24a8d3bbf1\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/831806183/rendition/1080p/file.mp4?loc=external&signature=c7dc90cdaceec8c6363603dc3eab5c60d321d8389c5c6f2490d4b6df511a0b74\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/dcd0d76d-c562-4f08-b3ca-dab31e67f5e3_espn-yir-5-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/abb35d17-2603-4dbd-ba9e-586133c9c52b_espn-yir-5-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/6a745016-97d5-4aa0-970b-c7a9455eb0e1_espn-yir-6-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/928b9d70-e940-4fba-8b89-7222ee054d72_espn-yir-6-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/eaf0e9a4-29d3-4c23-a797-c5eb65a61f82_espn-yir-7-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/bb16312c-c21e-4eac-a569-dff40eeafa3b_espn-yir-7-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-n_\"><div class=\"ca-n ca-n-i cu-z-s\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-i-cu\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-cu\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-cu\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/><polygon class=\"ca-n-i-ov\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-ov\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-ov\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/></svg></div><a class=\"ca-n ca-n-c cu-z-s\" href=\"/work\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-c-cu\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-cu\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/><polygon class=\"ca-n-c-ov\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-ov\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/></svg></a></div><div class=\"ca-pr\"><div></div></div><div class=\"ca-in pa__ pa__l\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><header class=\"ca-t pa-m pa-tm z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div><div class=\"y_\"><div class=\"y\">Website</div></div></div><div><h1><span class=\"y_\"><span class=\"y pa-gr\">ESPN</span></span><span class=\"y_\"><span class=\"y\">Year In Review</span></span></h1></div></div></header><div class=\"ca-b\"><div class=\"ca-b-m pa-m z-y\"><div class=\"pa-li\"><div></div></div><p class=\"pa-ts pa-gr z-s z-s-3\">A year in Sports is filled with ups and downs, triumphs and setbacks. The ESPN - Year In Review looks back at all the moments that made us gasp, cheer, and cry. From big leagues to small victories that made the year  2022.\n\nFrom stunning photography and video, the site lets you relive the riveting moments and reflect on the year's achievements. With interactive trivia and other surprises along the way, the ESPN - Year In Review 2022 celebrates the spirit and excellence in Sports like no other yearbook.</p><div class=\"ca-b-m-v z-o z-o-3\"><div class=\"pa-tca o\">VISIT SITE</div><a class=\"ca-b-m-v-c o cu-z-s\" href=\"https://www.espn.com/espn/feature/story/_/id/34335761/best-sports-moments-2022-year-review\" target=\"_blank\" rel=\"noopener\" aria-label=\"Explore the website\"><svg><use xlink:href=\"#_s-pane-arrow\"></use></svg></a></div></div><footer class=\"ca-b-f pa-m pa-tca z-y\"><div class=\"pa-li\"><div></div></div><div class=\"ca-b-f-c\"><div class=\"pa-gr y_\"><div class=\"y\">CLIENT</div></div><div class=\"y_\"><div class=\"y\">ESPN</div></div></div><div class=\"ca-b-f-s\"><div class=\"pa-gr y_\"><div class=\"y\">SERVICES</div></div><div><div class=\"y_\"><div class=\"y\">CONCEPT</div></div><div class=\"y_\"><div class=\"y\">ART DIRECTION</div></div><div class=\"y_\"><div class=\"y\">DESIGN</div></div></div></div><div class=\"ca-b-f-y y_\"><div class=\"y\">2022</div></div></footer></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div></div>"
+      },
+      "/work/dumpling-tv": {
+        "title": "28k — Dumpling.TV: Unveiling Aave's Innovative Video Platform",
+        "html": "<div class=\"ca p\"><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/aff86378-aa83-495f-8807-1dd1ab087b4c_dumpling-10-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/2a67b97d-52f2-419c-acf1-68774b9d2d79_dumpling-10-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/af575877-2058-4f0e-9d2d-30ad3c96d87e_dumpling-2-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/60c065f9-3105-4e2e-8265-28d27096d905_dumpling-2-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/7501dd48-b0d7-4e16-8b25-c2edf1e6a056_dumpling-3-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/4b1feff8-91db-495a-9786-e4730bc43bda_dumpling-3-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/17f144bf-6f68-44d1-8efa-af8c0fa5f02b_dumpling-9-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/0fc6dc20-7af3-476c-aef2-0b8b06fecd22_dumpling-9-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/ddb97b0a-8363-46f0-9b7a-77189eeddf21_dumpling-5-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/1f466ee5-2fc7-4c2f-8019-d5e4e47be277_dumpling-5-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/863188547/rendition/1080p/file.mp4?loc=external&log_user=0&signature=974f235d64e0333952a8e86873964ca3af83fa9ba0fba2c8d4c86028ec9f9150\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/863188547/rendition/1080p/file.mp4?loc=external&log_user=0&signature=974f235d64e0333952a8e86873964ca3af83fa9ba0fba2c8d4c86028ec9f9150\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/863188547/rendition/1080p/file.mp4?loc=external&log_user=0&signature=974f235d64e0333952a8e86873964ca3af83fa9ba0fba2c8d4c86028ec9f9150\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/91cd9b87-d03d-47a2-b1ef-345f091c5d53_dumpling-6-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/21ba041b-c100-48c8-b9a4-2cf9a9f251f0_dumpling-6-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/832372563/rendition/1080p/file.mp4?loc=external&signature=dcebddc2ef0ce5c1586d0310018ed7514c846d0617c3fbc490627e6cd567e392\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/832372563/rendition/1080p/file.mp4?loc=external&signature=dcebddc2ef0ce5c1586d0310018ed7514c846d0617c3fbc490627e6cd567e392\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/832372363/rendition/1080p/file.mp4?loc=external&signature=4d331ba25366ea71e5fcbcd2af6925a513daeaebd5961d5d810c9a06ed39fb6a\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/bcd9ec8e-07e7-460d-9171-f9c2a1fed07c_dumpling-7-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/7d7f9b3c-ccce-4a91-a8aa-187a9fd7d527_dumpling-7-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/edb47078-a181-4bdb-a2b3-9898a8f9ee97_dumpling-1-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/b74f5301-6d26-4c0f-a2e2-b9f2503b74a6_dumpling-1-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/ec30166c-3141-4a5d-825c-bf0b52fdb392_dumpling-8-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/697f866e-f5d6-4b6d-b3b8-9aed624a1a31_dumpling-8-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-n_\"><div class=\"ca-n ca-n-i cu-z-s\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-i-cu\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-cu\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-cu\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/><polygon class=\"ca-n-i-ov\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-ov\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-ov\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/></svg></div><a class=\"ca-n ca-n-c cu-z-s\" href=\"/work\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-c-cu\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-cu\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/><polygon class=\"ca-n-c-ov\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-ov\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/></svg></a></div><div class=\"ca-pr\"><div></div></div><div class=\"ca-in pa__ pa__l\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><header class=\"ca-t pa-m pa-tm z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div><div class=\"y_\"><div class=\"y\">Website</div></div></div><div><h1><span class=\"y_\"><span class=\"y pa-gr\">Aave</span></span><span class=\"y_\"><span class=\"y\">Dumpling.TV</span></span></h1></div></div></header><div class=\"ca-b\"><div class=\"ca-b-m pa-m z-y\"><div class=\"pa-li\"><div></div></div><p class=\"pa-ts pa-gr z-s z-s-3\">We helped Aave launch Dumpling.lol - possibly the internet's quirkiest video platform, to help promote Aave’s Lens Protocol.\n\nInspired by pirate radio and powered by Lens, we collaborated to create a platform showcasing the best of the user-owned content across web3 — See you at the zoo.</p><div class=\"ca-b-m-v z-o z-o-3\"><div class=\"pa-tca o\">VISIT SITE</div><a class=\"ca-b-m-v-c o cu-z-s\" href=\"https://www.dumpling.lol/\" target=\"_blank\" rel=\"noopener\" aria-label=\"Explore the website\"><svg><use xlink:href=\"#_s-pane-arrow\"></use></svg></a></div></div><footer class=\"ca-b-f pa-m pa-tca z-y\"><div class=\"pa-li\"><div></div></div><div class=\"ca-b-f-c\"><div class=\"pa-gr y_\"><div class=\"y\">CLIENT</div></div><div class=\"y_\"><div class=\"y\">AAVE</div></div></div><div class=\"ca-b-f-s\"><div class=\"pa-gr y_\"><div class=\"y\">SERVICES</div></div><div><div class=\"y_\"><div class=\"y\">CONCEPT</div></div><div class=\"y_\"><div class=\"y\">ART DIRECTION</div></div><div class=\"y_\"><div class=\"y\">DESIGN</div></div><div class=\"y_\"><div class=\"y\">3D DESIGN</div></div><div class=\"y_\"><div class=\"y\">MOTION</div></div></div></div><div class=\"ca-b-f-y y_\"><div class=\"y\">2022</div></div></footer></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div></div>"
+      },
+      "/work/ovechkin-800": {
+        "title": "28k — Ovechkin800: Unraveling Alexander Ovechkin's Journey to 800 NHL Goals",
+        "html": "<div class=\"ca p\"><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/863128693/rendition/1080p/file.mp4?loc=external&log_user=0&signature=02a46b3305ee3565c40b79d501677dec3af5dfbefd3bc9a18e4e8f421f56bc00\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/863128693/rendition/1080p/file.mp4?loc=external&log_user=0&signature=02a46b3305ee3565c40b79d501677dec3af5dfbefd3bc9a18e4e8f421f56bc00\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/863128693/rendition/1080p/file.mp4?loc=external&log_user=0&signature=02a46b3305ee3565c40b79d501677dec3af5dfbefd3bc9a18e4e8f421f56bc00\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/35ae57eb-4e96-4cc3-b986-38b26f088e61_espn-ove-1-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/99616bcf-957e-41af-a615-0b93f88c96fb_espn-ove-1-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/832169844/rendition/1080p/file.mp4?loc=external&signature=0b3b0794ee37cccecd24c465c7fa142f6d502594f38beb176eda1664e7f2a9aa\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/832169844/rendition/1080p/file.mp4?loc=external&signature=0b3b0794ee37cccecd24c465c7fa142f6d502594f38beb176eda1664e7f2a9aa\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/832169844/rendition/1080p/file.mp4?loc=external&signature=0b3b0794ee37cccecd24c465c7fa142f6d502594f38beb176eda1664e7f2a9aa\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/a06c6bca-6fdd-41e9-851c-f82b491ab3c1_espn-ove-4-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/e2b135a4-5696-456a-a2cb-21a2ce6cb6f6_espn-ove-4-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/91700740-f9ff-4603-be66-a281d4d95feb_espn-ove-2-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/74979f20-8e9c-45a4-9357-191d2dd23b5e_espn-ove-2-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"overlap\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/59fc796d-de9e-44f1-a391-61d2a393aaee_espn-ove-7-landscape-back.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/59fc796d-de9e-44f1-a391-61d2a393aaee_espn-ove-7-landscape-back.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/0db6bb4d-43d9-4c5d-85df-0312de400dc5_espn-ove-9-landscape-front.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/720b6742-c864-4da1-9a9e-db7f8bce1508_espn-ove-9-portrait-front.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/31590720-9468-4637-8f93-19c6624fb365_espn-ove-5-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/4b12abf4-302e-40cd-93db-f051af8cbe90_espn-ove-5-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/a045111d-bdc7-4446-a30c-05a0bffdbe7b_espn-ove-3-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/00c7d267-1d40-44b6-aa56-914b7826443d_espn-ove-3-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-n_\"><div class=\"ca-n ca-n-i cu-z-s\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-i-cu\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-cu\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-cu\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/><polygon class=\"ca-n-i-ov\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-ov\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-ov\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/></svg></div><a class=\"ca-n ca-n-c cu-z-s\" href=\"/work\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-c-cu\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-cu\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/><polygon class=\"ca-n-c-ov\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-ov\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/></svg></a></div><div class=\"ca-pr\"><div></div></div><div class=\"ca-in pa__ pa__l\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><header class=\"ca-t pa-m pa-tm z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div><div class=\"y_\"><div class=\"y\">Website</div></div></div><div><h1><span class=\"y_\"><span class=\"y pa-gr\">ESPN</span></span><span class=\"y_\"><span class=\"y\">Ovechkin800</span></span></h1></div></div></header><div class=\"ca-b\"><div class=\"ca-b-m pa-m z-y\"><div class=\"pa-li\"><div></div></div><p class=\"pa-ts pa-gr z-s z-s-3\">Ovechkin800 is an Interactive Documentary on Alexander Ovechkin's road to his 800th goal, a milestone achieved by only two other players in NHL history. The site comprehensively explores Ovechkin's career, including immersive statistics, his techniques, teammates, and opponents. Users navigate through an interactive timeline to explore different eras of Ovi's journey.</p><div class=\"ca-b-m-v z-o z-o-3\"><div class=\"pa-tca o\">VISIT SITE</div><a class=\"ca-b-m-v-c o cu-z-s\" href=\"https://www.espn.com/espn/feature/story/_/id/34769042/ovechkin-800\" target=\"_blank\" rel=\"noopener\" aria-label=\"Explore the website\"><svg><use xlink:href=\"#_s-pane-arrow\"></use></svg></a></div></div><footer class=\"ca-b-f pa-m pa-tca z-y\"><div class=\"pa-li\"><div></div></div><div class=\"ca-b-f-c\"><div class=\"pa-gr y_\"><div class=\"y\">CLIENT</div></div><div class=\"y_\"><div class=\"y\">ESPN</div></div></div><div class=\"ca-b-f-s\"><div class=\"pa-gr y_\"><div class=\"y\">SERVICES</div></div><div><div class=\"y_\"><div class=\"y\">CONCEPT</div></div><div class=\"y_\"><div class=\"y\">ART DIRECTION</div></div><div class=\"y_\"><div class=\"y\">DESIGN</div></div></div></div><div class=\"ca-b-f-y y_\"><div class=\"y\">2022</div></div></footer></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div></div>"
+      },
+      "/work/everbloom": {
+        "title": "28k — Everbloom: Unleashing Infinite Creative Potential with EverGrid",
+        "html": "<div class=\"ca p\"><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/f8416356-3fe0-4bd5-b152-cc64170dbfb0_everbloom-1-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/31927711-f83a-462a-809c-d21cd599373a_everbloom-1-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/831193946/rendition/1080p/file.mp4?loc=external&signature=848abb0f0a9255aeb2ae911e83a902d3559feff83819b45cb1dec006f6c52adf\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/831193946/rendition/1080p/file.mp4?loc=external&signature=848abb0f0a9255aeb2ae911e83a902d3559feff83819b45cb1dec006f6c52adf\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/831193946/rendition/1080p/file.mp4?loc=external&signature=848abb0f0a9255aeb2ae911e83a902d3559feff83819b45cb1dec006f6c52adf\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/030af46a-4efd-40d3-8ce6-6e4b75839783_everbloom-2-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/7be5657d-4bd3-41cf-92ee-c03e30ce8544_everbloom-2-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/a65e3a42-6d3e-4609-b094-ad0c23c65633_everbloom-3-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/2dea9bb7-9a17-4522-a5d0-11314cf38295_everbloom-3-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"side\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/831205912/rendition/1080p/file.mp4?loc=external&signature=348701a51e58952ab12ac8c70eca59ef642eafdac25bbca7ed80d378ab4e120d\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/831205912/rendition/1080p/file.mp4?loc=external&signature=348701a51e58952ab12ac8c70eca59ef642eafdac25bbca7ed80d378ab4e120d\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/831205912/rendition/1080p/file.mp4?loc=external&signature=348701a51e58952ab12ac8c70eca59ef642eafdac25bbca7ed80d378ab4e120d\" preload=\"metadata\" playsinline loop muted></video></div><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/831205912/rendition/1080p/file.mp4?loc=external&signature=348701a51e58952ab12ac8c70eca59ef642eafdac25bbca7ed80d378ab4e120d\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/831205912/rendition/1080p/file.mp4?loc=external&signature=348701a51e58952ab12ac8c70eca59ef642eafdac25bbca7ed80d378ab4e120d\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/831205912/rendition/1080p/file.mp4?loc=external&signature=348701a51e58952ab12ac8c70eca59ef642eafdac25bbca7ed80d378ab4e120d\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/875f3cc1-b35e-4d9c-a272-5669f3037a12_everbloom-4-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/4dc2ac87-6723-4aab-a9a7-5d392b312d0e_everbloom-4-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/831474592/rendition/1080p/file.mp4?loc=external&signature=61ae3c087189b6dd919ee47db38856bac675f1ee45a43f3ed5478ee8e4ebf26b\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/831474592/rendition/1080p/file.mp4?loc=external&signature=61ae3c087189b6dd919ee47db38856bac675f1ee45a43f3ed5478ee8e4ebf26b\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/831474592/rendition/1080p/file.mp4?loc=external&signature=61ae3c087189b6dd919ee47db38856bac675f1ee45a43f3ed5478ee8e4ebf26b\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/8067d4db-04a1-4fb3-be79-0885c03253b4_everbloom-5-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/0ee8c6aa-f3c3-469b-89bf-03f53b45a642_everbloom-5-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/900e47c3-8f76-4ebe-b4a4-556f26c9ff60_everbloom-6-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/e12c072e-92f2-4bd7-9171-80621d4bfa5d_everbloom-6-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/9a66e150-898c-45e9-ae1d-cdf6f6ddd66f_everbloom-7-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/20b35d8b-a238-4a9e-aaa3-5c3ef6dc459f_everbloom-7-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/9c573533-9d30-4876-b1d3-ead05cf83356_everbloom-8-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/ed223035-b1f3-4ccc-a7e4-42575f4ce6e3_everbloom-8-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/d3971e00-1e6f-4c10-83a6-3d6fd832dae1_everbloom-9-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/b941afc3-1ece-447b-8a25-313b89106175_everbloom-9-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-n_\"><div class=\"ca-n ca-n-i cu-z-s\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-i-cu\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-cu\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-cu\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/><polygon class=\"ca-n-i-ov\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-ov\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-ov\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/></svg></div><a class=\"ca-n ca-n-c cu-z-s\" href=\"/work\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-c-cu\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-cu\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/><polygon class=\"ca-n-c-ov\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-ov\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/></svg></a></div><div class=\"ca-pr\"><div></div></div><div class=\"ca-in pa__ pa__l\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><header class=\"ca-t pa-m pa-tm z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div><div class=\"y_\"><div class=\"y\">Branding</div></div></div><div><h1><span class=\"y_\"><span class=\"y pa-gr\">Everbloom</span></span><span class=\"y_\"><span class=\"y\">The Ever Grid</span></span></h1></div></div></header><div class=\"ca-b\"><div class=\"ca-b-m pa-m z-y\"><div class=\"pa-li\"><div></div></div><p class=\"pa-ts pa-gr z-s z-s-3\">Everbloom is on a mission — a pursuit of turning passion and self-expression into opportunity. Never-ending and forever evolving. Like forever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever.\n\nWe collaborated with Everbloom to create the EverGrid, an open-ended, creative framework for brand Identity.</p></div><footer class=\"ca-b-f pa-m pa-tca z-y\"><div class=\"pa-li\"><div></div></div><div class=\"ca-b-f-c\"><div class=\"pa-gr y_\"><div class=\"y\">CLIENT</div></div><div class=\"y_\"><div class=\"y\">EVERBLOOM</div></div></div><div class=\"ca-b-f-s\"><div class=\"pa-gr y_\"><div class=\"y\">SERVICES</div></div><div><div class=\"y_\"><div class=\"y\">CONCEPT</div></div><div class=\"y_\"><div class=\"y\">ART DIRECTION</div></div><div class=\"y_\"><div class=\"y\">DESIGN</div></div><div class=\"y_\"><div class=\"y\">MOTION</div></div></div></div><div class=\"ca-b-f-y y_\"><div class=\"y\">2022</div></div></footer></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div></div>"
+      },
+      "/work/espn-carlos-alcaraz": {
+        "title": "28k — Carlos Alcaraz's Journey: Rising Star Takes on Tennis Legends in 2023",
+        "html": "<div class=\"ca p\"><div class=\"ca-media__\" data-t=\"overlap\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/8138e328-99e3-4074-9e75-8f781e37b6b1_alcaraz-1-landscape-BG.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/c4bdc973-e7c8-43ac-bfdd-baeb9952545b_alcaraz-1-portrait-BG.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/864739566/rendition/1080p/file.mp4?loc=external&log_user=0&signature=1f3dba70048ca1ac125cba81be0673bad3559325f6908e1ac908a3fa631a8abf\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/864739566/rendition/1080p/file.mp4?loc=external&log_user=0&signature=1f3dba70048ca1ac125cba81be0673bad3559325f6908e1ac908a3fa631a8abf\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/864739566/rendition/1080p/file.mp4?loc=external&log_user=0&signature=1f3dba70048ca1ac125cba81be0673bad3559325f6908e1ac908a3fa631a8abf\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/e81dc5e8-80cd-4016-8a08-0caa1b4a686f_alcaraz-2-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/0ce78777-f72e-45fc-ae4f-e76730ddce5f_alcaraz-2-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/864805277/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e4df6b074b60e52b10527b05b4880f6321ba54ddac316e2cf2b0901acd929ab2\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/864805277/rendition/1080p/file.mp4?loc=external&log_user=0&signature=e4df6b074b60e52b10527b05b4880f6321ba54ddac316e2cf2b0901acd929ab2\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/864947279/rendition/1080p/file.mp4?loc=external&log_user=0&signature=375c9c20f641cb4aa2adf3fa49e078a240dd849ab498bcc3582943d669bc62c3\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"overlap\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/c2880c4d-06bb-451e-9b4c-fea7a59cdf9f_alcaraz-4-landscape-BG.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/c018cd96-121a-499a-b620-c8d4cf792f30_alcaraz-4-portrait-BG.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/baeffd0d-5fce-42e3-b442-2311005b81b5_alcaraz-4-landscape-Overlay.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/d4da53b1-48ef-48bb-9751-dd35279f9f98_alcaraz-4-portrait-overlay.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/7ce4cddb-c1bf-4de3-ab5c-57cfc7222c87_alcaraz-5-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/d775bd70-a951-405c-9d75-4de210ad178e_alcaraz-5-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/864805325/rendition/1080p/file.mp4?loc=external&log_user=0&signature=158f159b5c9a53a205b6eb8d1055d232039b935c766a18fb124155bc5cc393b5\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/864805325/rendition/1080p/file.mp4?loc=external&log_user=0&signature=158f159b5c9a53a205b6eb8d1055d232039b935c766a18fb124155bc5cc393b5\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/864938256/rendition/1080p/file.mp4?loc=external&log_user=0&signature=01c56b785c44f08fc15a35b1d9778d47c1e3df182eb8d7be8e8a42e300b501f6\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/61e19a04-3239-4dd6-929e-57c00ffd2187_alcaraz-7-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/7af8e610-9e54-4905-844c-9698f4df2e09_alcaraz-7-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/700485e3-3899-414a-8c13-aca494540d39_alcaraz-8-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/5bf9ee3a-7e59-4f94-9f7a-9e44b185099f_alcaraz-8-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/72490d47-9571-4254-9e3b-0870a53b22e1_alcaraz-9-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/138f72f9-e8ba-4e18-bf16-7327ab25236b_alcaraz-9-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/2f1d9148-ba04-4939-add3-05cd708b9c2a_alcaraz-10-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/bb379d78-e303-4455-8699-d4aa11aea8de_alcaraz-10-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><div class=\"ca-media_\"><video class=\"ca-media ca-vid\" src=\"https://player.vimeo.com/progressive_redirect/playback/864805359/rendition/1080p/file.mp4?loc=external&log_user=0&signature=4656713596fd1ee664e9b22254808d5fb78bebea8e6d3f48c76b969249aeb1db\" data-l=\"https://player.vimeo.com/progressive_redirect/playback/864805359/rendition/1080p/file.mp4?loc=external&log_user=0&signature=4656713596fd1ee664e9b22254808d5fb78bebea8e6d3f48c76b969249aeb1db\" data-p=\"https://player.vimeo.com/progressive_redirect/playback/864943860/rendition/1080p/file.mp4?loc=external&log_user=0&signature=fbcd5762782c611c257e94074439244839ec882a928edce5623329156c5254b1\" preload=\"metadata\" playsinline loop muted></video></div></div><div class=\"ca-media__\" data-t=\"overlap\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/d7004bcd-ca0a-42e2-8505-8e8397d84c71_alcaraz-12-landscape-BG.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/d0f980a3-5248-4364-80ed-957f9bfb9103_alcaraz-12-portrait-BG.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/94f8ebc1-9fd5-4581-8dd6-da4328151770_alcaraz-12-landscape-Overlay.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/cc87587c-6f92-4176-a34b-4e6801c07745_alcaraz-12-portrait-Overlay.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/065063e5-7863-4919-816d-a15152a2f45a_alcaraz-13-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/a60f8f36-1631-478d-a601-39044562abd6_alcaraz-13-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-n_\"><div class=\"ca-n ca-n-i cu-z-s\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-i-cu\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-cu\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-cu\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/><polygon class=\"ca-n-i-ov\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-ov\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-ov\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/></svg></div><a class=\"ca-n ca-n-c cu-z-s\" href=\"/work\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-c-cu\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-cu\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/><polygon class=\"ca-n-c-ov\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-ov\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/></svg></a></div><div class=\"ca-pr\"><div></div></div><div class=\"ca-in pa__ pa__l\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><header class=\"ca-t pa-m pa-tm z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div><div class=\"y_\"><div class=\"y\">Website</div></div></div><div><h1><span class=\"y_\"><span class=\"y pa-gr\">ESPN</span></span><span class=\"y_\"><span class=\"y\">Carlos Alcaraz</span></span></h1></div></div></header><div class=\"ca-b\"><div class=\"ca-b-m pa-m z-y\"><div class=\"pa-li\"><div></div></div><p class=\"pa-ts pa-gr z-s z-s-3\">Explore the meteoric rise of tennis prodigy Carlos Alcaraz as he takes on the legends Federer, Djokovic, and Nadal in the 2023 tennis season. This project delves into the young Spaniard's journey, capturing his fearless spirit and unparalleled determination on the court, as he challenges the tennis titans of our era. Witness the clash of generations and the pursuit of greatness in this gripping sports feature.</p><div class=\"ca-b-m-v z-o z-o-3\"><div class=\"pa-tca o\">VISIT SITE</div><a class=\"ca-b-m-v-c o cu-z-s\" href=\"https://www.espn.com/espn/feature/story/_/id/38087576/inside-carlos-alcaraz-2023-game-federer-djokovic-nadal\" target=\"_blank\" rel=\"noopener\" aria-label=\"Explore the website\"><svg><use xlink:href=\"#_s-pane-arrow\"></use></svg></a></div></div><footer class=\"ca-b-f pa-m pa-tca z-y\"><div class=\"pa-li\"><div></div></div><div class=\"ca-b-f-c\"><div class=\"pa-gr y_\"><div class=\"y\">CLIENT</div></div><div class=\"y_\"><div class=\"y\">ESPN</div></div></div><div class=\"ca-b-f-s\"><div class=\"pa-gr y_\"><div class=\"y\">SERVICES</div></div><div><div class=\"y_\"><div class=\"y\">CONCEPT</div></div><div class=\"y_\"><div class=\"y\">ART DIRECTION</div></div><div class=\"y_\"><div class=\"y\">DESIGN</div></div><div class=\"y_\"><div class=\"y\">3D DESIGN</div></div></div></div><div class=\"ca-b-f-y y_\"><div class=\"y\">2023</div></div></footer></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div></div>"
+      },
+      "/": {
+        "title": "28k — Digital Design Studio",
+        "html": "<div id=\"ho\" class=\"p\"><div id=\"ho-c\"><h1 id=\"ho-t\"><span class=\"y_\"><span class=\"y\">A Design Studio</span></span><span class=\"y_\"><span class=\"y\">Devoted To Making The Most</span></span><span class=\"y_\"><span class=\"y\">Memorable Experiences</span></span><span class=\"y_\"><span class=\"y\">Within Our Time.</span></span></h1><div id=\"ho-l\"><div></div></div><div id=\"ho-b\" class=\"mo\"><div id=\"ho-b-l\"><div><div class=\"y_\"><div class=\"y\">LOCATIONS</div></div><div class=\"y_\"><div class=\"y\">TO &amp; CPH</div></div></div></div><div id=\"ho-b-le\"><div id=\"ho-b-s\" class=\"y_\"><div class=\"y\">SERVICES</div></div><ul id=\"ho-b-sl\"><li class=\"y_\"><div class=\"y\">SPRINTS</div></li><li class=\"y_\"><div class=\"y\">BRANDING</div></li><li class=\"y_\"><div class=\"y\">DIGITAL EXPERIENCES</div></li><li class=\"y_\"><div class=\"y\">PRODUCT DESIGN</div></li></ul></div></div><div id=\"ho-co\" class=\"mo\"><div id=\"ho-co-t\" class=\"y_ cu-z-s\"><div class=\"y\">CONTACT</div></div><div id=\"ho-co-c\"><div id=\"ho-co-c-b\" class=\"cu-z-s\"></div><div id=\"ho-co-c-a\"><svg><use xlink:href=\"#_s-pane-arrow\"></use></svg></div></div><div id=\"ho-co-c-m\">HI@28K.STUDIO</div><div id=\"ho-co-c-i\"><svg viewBox=\"0 0 19 17\"><polygon class=\"ho-co-c-i-p\" points=\"3,4 13,4 13,16 3,16 3,4 4,4 4,15 12,15 12,5 3,5\"/><polygon class=\"ho-co-c-i-p\" points=\"5.5,1 5.5,2 15,2 15,11.5 16,11.5 16,1\"/></svg></div></div></div></div>"
+      },
+      "/work/gho": {
+        "title": "28k — Discover GHO: Aave's Groundbreaking Stablecoin Redefining Crypto Trust",
+        "html": "<div class=\"ca p\"><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/ae3907e0-5dbc-4e9f-a519-537f7f9f11d6_gho-1-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/3f270e0f-5abf-478c-92c8-a8cbbb846a82_gho-1-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"side\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/81cf67c5-c5bc-428d-a6db-03071a5a3f52_gho-2-landscape-1.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/048ccbda-0839-48e5-98dd-61ad693ab52a_gho-2-portrait-1.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/cff1f9af-a587-4228-a272-b2d913a1d3d0_gho-2-landscape-2.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/c69fabd5-5967-4859-ac9f-821f460b09f7_gho-2-portrait-2.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/c34e11cf-64e5-4bd3-8cf4-2d242da12164_gho-3-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/28450387-76b8-4d2c-89b9-337f08129e92_gho-3-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/30291014-4a55-4069-aec9-641de18486d7_gho-4-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/b19c7d25-a07d-4a96-8d56-4188bb7250a4_gho-4-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/f88e9b50-8636-4208-87a7-dd86fc1a9c43_gho-5-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/00955b19-6906-4ef5-a58f-67478e7cf838_gho-5-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/0cf84e45-3d3f-4535-8ff6-dc1ea05d3b9a_gho-6-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/5a4fdb43-319f-4776-8b0a-82b0c4ece6a7_gho-6-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/cb9ac7b4-4954-4e70-9a10-25f42973c804_gho-7-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/d011835e-2210-4ee2-b908-9f753313bd80_gho-7-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/b5d822b6-00e9-46b2-a4fb-f04ffd452c1e_gho-8-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/64f60bf2-c578-48b3-831d-c304bdceb911_gho-8-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/8a2a9bac-62f3-4b81-adce-05402d8d4430_gho-9-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/b2d0c702-e2dd-43cc-a672-053416ee374b_gho-9-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"side\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/3d4d43b7-59b6-47a4-bfc7-00ba954239d5_gho-10-landscape-2.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/6c313f62-fe1a-4c6f-9030-1af0790eabd5_gho-10-portrait-2.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/aa0c5d26-9ca6-41ca-a88b-27622926e9f9_gho-10-landscape-1.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/398c741c-87f2-45fc-8992-7443e61f5b8f_gho-10-portrait-1.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-media__\" data-t=\"simple\"><picture class=\"ca-media_\"><source class=\"ca-img\" srcset=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" media=\"(min-width: 0px)\"><source media=\"(orientation: landscape)\" srcset=\"https://images.prismic.io/studio28k/996c1b38-f89e-4fd7-adc7-80d1f1da609f_gho-11-landscape.png?auto=format&q=100\"><source media=\"(orientation: portrait)\" srcset=\"https://images.prismic.io/studio28k/e276eb8b-295c-4cdc-a7cb-ae763aaee20c_gho-11-portrait.png?auto=format&q=100\"><img class=\"ca-media\" src=\"data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" alt=\"\"></picture></div><div class=\"ca-n_\"><div class=\"ca-n ca-n-i cu-z-s\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-i-cu\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-cu\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-cu\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/><polygon class=\"ca-n-i-ov\" points=\"14,19 14,19.5 14,20 14,20 14,19\"/><polygon class=\"ca-n-i-ov\" points=\"14,24 14,23 14,23 14,23.5 14,24\"/><polygon class=\"ca-n-i-ov\" points=\"14,27 14,28 14,28 14,27.5 14,27\"/></svg></div><a class=\"ca-n ca-n-c cu-z-s\" href=\"/work\"><svg class=\"ca-n-ci\" viewBox=\"0 0 47 47\"><circle cx=\"23.5\" cy=\"23.5\" r=\"22\"/></svg> <svg class=\"ca-n-sh\" viewBox=\"0 0 47 47\"><polygon class=\"ca-n-c-cu\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-cu\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/><polygon class=\"ca-n-c-ov\" points=\"16.075,30.218 16.438,30.58 16.783,30.925 16.783,30.925 16.075,30.218\"/><polygon class=\"ca-n-c-ov\" points=\"30.924,30.218 30.924,30.218 30.217,30.925 30.217,30.925 30.585,30.557\"/></svg></a></div><div class=\"ca-pr\"><div></div></div><div class=\"ca-in pa__ pa__l\"><div class=\"pa__co\"></div><div class=\"pa_\"><div class=\"pa\"><div class=\"pa-bg\"></div><header class=\"ca-t pa-m pa-tm z-y\"><div class=\"pa-li\"><div></div></div><div class=\"pa-lr\"><div><div class=\"y_\"><div class=\"y\">Branding</div></div></div><div><h1><span class=\"y_\"><span class=\"y pa-gr\">Aave</span></span><span class=\"y_\"><span class=\"y\">GHO</span></span></h1></div></div></header><div class=\"ca-b\"><div class=\"ca-b-m pa-m z-y\"><div class=\"pa-li\"><div></div></div><p class=\"pa-ts pa-gr z-s z-s-3\">We helped Aave brand their stablecoin GHO - a game-changing addition to the crypto landscape, offering much-needed transparency and security in an otherwise noisy market.\n\nWhile crypto embodies maximalism and hype, the GHO identity reflects transparency, honesty, and security. Encapsulated in a beautiful and calm design system, GHO set a new standard for the future of digital currency—one of trust.</p></div><footer class=\"ca-b-f pa-m pa-tca z-y\"><div class=\"pa-li\"><div></div></div><div class=\"ca-b-f-c\"><div class=\"pa-gr y_\"><div class=\"y\">CLIENT</div></div><div class=\"y_\"><div class=\"y\">AAVE</div></div></div><div class=\"ca-b-f-s\"><div class=\"pa-gr y_\"><div class=\"y\">SERVICES</div></div><div><div class=\"y_\"><div class=\"y\">CONCEPT</div></div><div class=\"y_\"><div class=\"y\">ART DIRECTION</div></div><div class=\"y_\"><div class=\"y\">DESIGN</div></div></div></div><div class=\"ca-b-f-y y_\"><div class=\"y\">2022</div></div></footer></div></div></div><div class=\"pa_cl\"><div class=\"pa_cl-bg\"></div><svg viewBox=\"0 0 45 45\"><polygon class=\"pa_cl-cu\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-cu\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/><polygon class=\"pa_cl-ov\" points=\"29.567,28.86 29.567,28.86 28.86,29.567 28.86,29.567 29.214,29.213\"/><polygon class=\"pa_cl-ov\" points=\"14.718,28.86 14.718,28.86 15.425,29.567 15.425,29.567 15.075,29.217\"/></svg></div></div></div>"
+      },
+      "/work": {
+        "title": "28k — Explore Studio 28K's Impressive Portfolio of Creative Work",
+        "html": "<div class=\"p\"><ul id=\"wo-l\"><li><div class=\"wo-l-0\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">ESPN</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">Year In Review</span></span></div><div class=\"wo-l-1\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">Website</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">2022</span></span></div></li><li><div class=\"wo-l-0\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">Aave</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #676a6b\">GHO</span></span></div><div class=\"wo-l-1\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">Branding</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #676a6b\">2022</span></span></div></li><li><div class=\"wo-l-0\"><span class=\"y_\"><span class=\"y\" style=\"color: #ffffff\">ESPN</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #a4a6a8\">Ovechkin800</span></span></div><div class=\"wo-l-1\"><span class=\"y_\"><span class=\"y\" style=\"color: #ffffff\">Website</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #a4a6a8\">2022</span></span></div></li><li><div class=\"wo-l-0\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">Madklubben</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #6d6f5f\">Restaurant Portal</span></span></div><div class=\"wo-l-1\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">Platform</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #6d6f5f\">2022</span></span></div></li><li><div class=\"wo-l-0\"><span class=\"y_\"><span class=\"y\" style=\"color: #ffffff\">Everbloom</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">The Ever Grid</span></span></div><div class=\"wo-l-1\"><span class=\"y_\"><span class=\"y\" style=\"color: #ffffff\">Branding</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">2022</span></span></div></li><li><div class=\"wo-l-0\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">Aave</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">Dumpling.TV</span></span></div><div class=\"wo-l-1\"><span class=\"y_\"><span class=\"y\" style=\"color: #333333\">Website</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">2022</span></span></div></li><li><div class=\"wo-l-0\"><span class=\"y_\"><span class=\"y\" style=\"color: #fdfdf9\">ESPN</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">Carlos Alcaraz</span></span></div><div class=\"wo-l-1\"><span class=\"y_\"><span class=\"y\" style=\"color: #fdfdf9\">Website</span></span><span class=\"y_\"><span class=\"y\" style=\"color: #777777\">2023</span></span></div></li></ul><div id=\"wo-k\"><a href=\"/work/espn-year-in-review\"></a><a href=\"/work/gho\"></a><a href=\"/work/ovechkin-800\"></a><a href=\"/work/madklubben\"></a><a href=\"/work/everbloom\"></a><a href=\"/work/dumpling-tv\"></a><a href=\"/work/espn-carlos-alcaraz\"></a></div><div id=\"wo-p\" class=\"mo\"><div class=\"y_\"><div id=\"wo-p-l_\" class=\"y\"><div id=\"wo-p-s\">00</div><div id=\"wo-p-l\"><div>07</div><div>01</div><div>02</div><div>03</div><div>04</div><div>05</div><div>06</div><div>07</div><div>01</div></div></div></div><div class=\"y_\"><div class=\"y\">&nbsp;/&nbsp;07</div></div></div><div id=\"wo-t\"><svg viewBox=\"0 0 15 15\"><polygon points=\"15,7 8,7 8,0 7,0 7,7 0,7 0,8 7,8 7,15 8,15 8,8 15,8\"/></svg></div></div>"
+      }
+    },
+    "routes": {
+      "/work/madklubben": {
+        "page": "ca",
+        "id": 3
+      },
+      "/work/espn-year-in-review": {
+        "page": "ca",
+        "id": 0
+      },
+      "/work/dumpling-tv": {
+        "page": "ca",
+        "id": 5
+      },
+      "/work/ovechkin-800": {
+        "page": "ca",
+        "id": 2
+      },
+      "/work/everbloom": {
+        "page": "ca",
+        "id": 4
+      },
+      "/work/espn-carlos-alcaraz": {
+        "page": "ca",
+        "id": 6
+      },
+      "/": {
+        "page": "ho",
+        "id": 0
+      },
+      "/work/gho": {
+        "page": "ca",
+        "id": 1
+      },
+      "/work": {
+        "page": "wo",
+        "id": 0
+      }
+    },
+    "data": {
+      "gl": {
+        "ho": {
+          "tex": {
+            "store": {
+              "media": [
+                [
+                  {
+                    "type": "vid",
+                    "id": "r-v-ho",
+                    "url": {
+                      "landscape": "https://player.vimeo.com/progressive_redirect/playback/889723061/rendition/1080p/file.mp4?loc=external&log_user=0&signature=86548faa2a674803f2103d6f1b08845ca4c451d53a3263188d9b5cd4adef3e5e",
+                      "portrait": "https://player.vimeo.com/progressive_redirect/playback/889723061/rendition/1080p/file.mp4?loc=external&log_user=0&signature=86548faa2a674803f2103d6f1b08845ca4c451d53a3263188d9b5cd4adef3e5e"
+                    }
+                  }
+                ]
+              ],
+              "logo": [
+                [
+                  {
+                    "type": "img",
+                    "url": "/static/media/ho/0.png"
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "url": "/static/media/ho/1.png"
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "url": "/static/media/ho/2.png"
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "url": "/static/media/ho/3.png"
+                  }
+                ]
+              ]
+            }
+          }
+        },
+        "ca": {
+          "tex": {
+            "store": {
+              "main": [
+                [
+                  {
+                    "type": "img",
+                    "id": "r-v-ca-0",
+                    "url": {
+                      "landscape": "https://images.prismic.io/studio28k/6c53bef9-9319-4d7b-b668-032b475e39ef_thumbnail-landscape.png?auto=format&q=100",
+                      "portrait": "https://images.prismic.io/studio28k/b8ca74c3-90a9-4a4e-ad74-b6049dbd323a_thumbnail-portrait.png?auto=format&q=100"
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "id": "r-v-ca-1",
+                    "url": {
+                      "landscape": "https://images.prismic.io/studio28k/547f8770-277c-405c-92aa-5c4197b45e22_thumbnail-landscape.jpg?auto=format&q=100",
+                      "portrait": "https://images.prismic.io/studio28k/8ed2bbd6-303a-40e5-97cb-528221adb97d_thumbnail-portrait.jpg?auto=format&q=100"
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "id": "r-v-ca-2",
+                    "url": {
+                      "landscape": "https://images.prismic.io/studio28k/ea273d4d-97ec-46d6-bd5a-a7cfe55a1d8f_thumbnail-landscape.png?auto=format&q=100",
+                      "portrait": "https://images.prismic.io/studio28k/b72879ee-3092-4207-88be-e143ac1fd74a_thumbnail-portrait.png?auto=format&q=100"
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "id": "r-v-ca-3",
+                    "url": {
+                      "landscape": "https://images.prismic.io/studio28k/535a40bb-54fd-43b1-85ad-18a0c004a88e_thumbnail-landscape.png?auto=format&q=100",
+                      "portrait": "https://images.prismic.io/studio28k/ed03a31b-9817-4aad-85ba-d8209c5f5977_thumbnail-portrait.png?auto=format&q=100"
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "id": "r-v-ca-4",
+                    "url": {
+                      "landscape": "https://images.prismic.io/studio28k/d0b0747b-b8d7-46c9-829e-95bc2bde4e73_thumbnail-landscape.png?auto=format&q=100",
+                      "portrait": "https://images.prismic.io/studio28k/a63ea334-174c-406a-bc13-1d2a3fb86cbe_thumbnail-portrait.png?auto=format&q=100"
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "id": "r-v-ca-5",
+                    "url": {
+                      "landscape": "https://images.prismic.io/studio28k/60adaf11-8a38-47ff-9470-fb5267edc992_thumbnail-landscape.png?auto=format&q=100",
+                      "portrait": "https://images.prismic.io/studio28k/ca4c02c3-cc7f-4a6d-be9c-ff4d22c30031_thumbnail-portrait.png?auto=format&q=100"
+                    }
+                  }
+                ],
+                [
+                  {
+                    "type": "img",
+                    "id": "r-v-ca-6",
+                    "url": {
+                      "landscape": "https://images.prismic.io/studio28k/a1676299-090d-42b3-a977-289c1777c935_thumbnail-landscape.png?auto=format&q=100",
+                      "portrait": "https://images.prismic.io/studio28k/d603ba40-da3d-4e48-9943-906d870d532c_thumbnail-portrait.png?auto=format&q=100"
+                    }
+                  }
+                ]
+              ]
+            }
+          }
+        }
+      },
+      "xtra": {
+        "ho": {
+          "color": [
+            200,
+            200,
+            200
+          ]
+        },
+        "ca": [
+          {
+            "color": [
+              [
+                [
+                  238,
+                  238,
+                  238
+                ],
+                [
+                  238,
+                  238,
+                  238
+                ]
+              ],
+              [
+                [
+                  245,
+                  245,
+                  245
+                ],
+                [
+                  245,
+                  245,
+                  245
+                ]
+              ],
+              [
+                [
+                  245,
+                  245,
+                  245
+                ],
+                [
+                  245,
+                  245,
+                  245
+                ]
+              ],
+              [
+                [
+                  245,
+                  245,
+                  245
+                ],
+                [
+                  245,
+                  245,
+                  245
+                ]
+              ],
+              [
+                [
+                  186,
+                  185,
+                  185
+                ],
+                [
+                  186,
+                  185,
+                  185
+                ]
+              ],
+              [
+                [
+                  245,
+                  245,
+                  245
+                ],
+                [
+                  29,
+                  29,
+                  29
+                ]
+              ],
+              [
+                [
+                  29,
+                  29,
+                  29
+                ],
+                [
+                  29,
+                  29,
+                  29
+                ]
+              ],
+              [
+                [
+                  32,
+                  32,
+                  32
+                ],
+                [
+                  32,
+                  32,
+                  32
+                ]
+              ],
+              [
+                [
+                  31,
+                  31,
+                  31
+                ],
+                [
+                  31,
+                  31,
+                  31
+                ]
+              ],
+              [
+                [
+                  245,
+                  245,
+                  245
+                ],
+                [
+                  245,
+                  245,
+                  245
+                ]
+              ],
+              [
+                [
+                  29,
+                  29,
+                  29
+                ],
+                [
+                  29,
+                  29,
+                  29
+                ]
+              ],
+              [
+                [
+                  24,
+                  23,
+                  24
+                ],
+                [
+                  24,
+                  23,
+                  24
+                ]
+              ]
+            ],
+            "moveL": 2,
+            "videoSync": [
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "width": [
+              [
+                {
+                  "landscape": 768,
+                  "portrait": 590
+                },
+                {
+                  "landscape": 1728,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 1652,
+                  "portrait": 1057
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 599,
+                  "portrait": 598
+                },
+                {
+                  "landscape": 584,
+                  "portrait": 584
+                }
+              ],
+              [
+                {
+                  "landscape": 2194,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1137
+                }
+              ],
+              [
+                {
+                  "landscape": 1652,
+                  "portrait": 1057
+                }
+              ],
+              [
+                {
+                  "landscape": 2224,
+                  "portrait": 380
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ]
+            ],
+            "borderRadius": [
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ]
+            ],
+            "step": [
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "stepLeftFirst": [
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "move": [
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false
+            ],
+            "moveIndex": [
+              -1,
+              0,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              1,
+              -1,
+              -1
+            ],
+            "moveCenter": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveMarge": [
+              0,
+              18,
+              0,
+              0,
+              0,
+              0,
+              0,
+              18,
+              0,
+              0
+            ],
+            "moveRatioHW": [
+              0,
+              {
+                "landscape": 6.656174334140436,
+                "portrait": 6.661305581835383
+              },
+              0,
+              0,
+              0,
+              0,
+              0,
+              {
+                "landscape": 3.1537530266343827,
+                "portrait": 3.1570482497634815
+              },
+              0,
+              0
+            ],
+            "mode": [
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Contain",
+                "portrait": "Contain"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              }
+            ]
+          },
+          {
+            "color": [
+              [
+                [
+                  179,
+                  188,
+                  191
+                ],
+                [
+                  179,
+                  188,
+                  191
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  1
+                ],
+                [
+                  0,
+                  0,
+                  1
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  227,
+                  226,
+                  233
+                ]
+              ],
+              [
+                [
+                  230,
+                  229,
+                  236
+                ],
+                [
+                  230,
+                  229,
+                  236
+                ]
+              ],
+              [
+                [
+                  194,
+                  204,
+                  211
+                ],
+                [
+                  194,
+                  204,
+                  211
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  1
+                ],
+                [
+                  0,
+                  0,
+                  1
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  224,
+                  223,
+                  230
+                ],
+                [
+                  224,
+                  223,
+                  230
+                ]
+              ],
+              [
+                [
+                  79,
+                  67,
+                  64
+                ],
+                [
+                  79,
+                  67,
+                  64
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  217,
+                  216,
+                  223
+                ],
+                [
+                  217,
+                  216,
+                  223
+                ]
+              ],
+              [
+                [
+                  217,
+                  216,
+                  223
+                ],
+                [
+                  217,
+                  216,
+                  223
+                ]
+              ],
+              [
+                [
+                  0,
+                  16,
+                  5
+                ],
+                [
+                  0,
+                  16,
+                  5
+                ]
+              ]
+            ],
+            "moveL": 0,
+            "videoSync": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "width": [
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 540,
+                  "portrait": 390
+                },
+                {
+                  "landscape": 1728,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 1567,
+                  "portrait": 368
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 1630,
+                  "portrait": 1078
+                }
+              ],
+              [
+                {
+                  "landscape": 541,
+                  "portrait": 490
+                },
+                {
+                  "landscape": 1728,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ]
+            ],
+            "borderRadius": [
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ]
+            ],
+            "step": [
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              true,
+              false
+            ],
+            "stepLeftFirst": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              true,
+              false
+            ],
+            "move": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveIndex": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "moveCenter": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveMarge": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "moveRatioHW": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "mode": [
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Contain",
+                "portrait": "Contain"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Contain",
+                "portrait": "Contain"
+              },
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              }
+            ]
+          },
+          {
+            "color": [
+              [
+                [
+                  31,
+                  35,
+                  48
+                ],
+                [
+                  31,
+                  35,
+                  48
+                ]
+              ],
+              [
+                [
+                  0,
+                  9,
+                  28
+                ],
+                [
+                  0,
+                  9,
+                  28
+                ]
+              ],
+              [
+                [
+                  0,
+                  9,
+                  28
+                ],
+                [
+                  0,
+                  9,
+                  28
+                ]
+              ],
+              [
+                [
+                  253,
+                  253,
+                  249
+                ],
+                [
+                  253,
+                  253,
+                  249
+                ]
+              ],
+              [
+                [
+                  253,
+                  253,
+                  249
+                ],
+                [
+                  253,
+                  253,
+                  249
+                ]
+              ],
+              [
+                [
+                  0,
+                  9,
+                  28
+                ],
+                [
+                  0,
+                  9,
+                  28
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  9,
+                  28
+                ],
+                [
+                  0,
+                  9,
+                  28
+                ]
+              ],
+              [
+                [
+                  19,
+                  21,
+                  33
+                ],
+                [
+                  19,
+                  21,
+                  33
+                ]
+              ]
+            ],
+            "moveL": 1,
+            "videoSync": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "width": [
+              [
+                {
+                  "landscape": 2193,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 2876,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 2194,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 1654,
+                  "portrait": 1057
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                },
+                {
+                  "landscape": 1237,
+                  "portrait": 1073
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ]
+            ],
+            "borderRadius": [
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ]
+            ],
+            "step": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false
+            ],
+            "stepLeftFirst": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "move": [
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveIndex": [
+              -1,
+              -1,
+              -1,
+              0,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "moveCenter": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveMarge": [
+              0,
+              0,
+              0,
+              18,
+              0,
+              0,
+              0,
+              0
+            ],
+            "moveRatioHW": [
+              0,
+              0,
+              0,
+              {
+                "landscape": 2.8137847642079805,
+                "portrait": 2.8164616840113528
+              },
+              0,
+              0,
+              0,
+              0
+            ],
+            "mode": [
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Contain",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              }
+            ]
+          },
+          {
+            "color": [
+              [
+                [
+                  195,
+                  199,
+                  160
+                ],
+                [
+                  195,
+                  199,
+                  160
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  235,
+                  235,
+                  235
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  235,
+                  235,
+                  235
+                ],
+                [
+                  235,
+                  235,
+                  235
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  235,
+                  235,
+                  235
+                ],
+                [
+                  235,
+                  235,
+                  235
+                ]
+              ]
+            ],
+            "moveL": 1,
+            "videoSync": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "width": [
+              [
+                {
+                  "landscape": 2193,
+                  "portrait": 953
+                }
+              ],
+              [
+                {
+                  "landscape": 1728,
+                  "portrait": 1290
+                },
+                {
+                  "landscape": 768,
+                  "portrait": 591
+                }
+              ],
+              [
+                {
+                  "landscape": 2193,
+                  "portrait": 953
+                }
+              ],
+              [
+                {
+                  "landscape": 1651,
+                  "portrait": 1057
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ]
+            ],
+            "borderRadius": [
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ]
+            ],
+            "step": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "stepLeftFirst": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "move": [
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            "moveIndex": [
+              -1,
+              -1,
+              -1,
+              0,
+              -1,
+              -1,
+              -1
+            ],
+            "moveCenter": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveMarge": [
+              0,
+              0,
+              0,
+              18,
+              0,
+              0,
+              0
+            ],
+            "moveRatioHW": [
+              0,
+              0,
+              0,
+              {
+                "landscape": 3.205330102967898,
+                "portrait": 3.205298013245033
+              },
+              0,
+              0,
+              0
+            ],
+            "mode": [
+              {
+                "landscape": "Contain",
+                "portrait": "Contain"
+              },
+              null,
+              {
+                "landscape": "Contain",
+                "portrait": "Contain"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              }
+            ]
+          },
+          {
+            "color": [
+              [
+                [
+                  31,
+                  31,
+                  31
+                ],
+                [
+                  31,
+                  31,
+                  31
+                ]
+              ],
+              [
+                [
+                  22,
+                  28,
+                  26
+                ],
+                [
+                  22,
+                  28,
+                  26
+                ]
+              ],
+              [
+                [
+                  25,
+                  25,
+                  25
+                ],
+                [
+                  25,
+                  25,
+                  25
+                ]
+              ],
+              [
+                [
+                  199,
+                  199,
+                  200
+                ],
+                [
+                  199,
+                  199,
+                  200
+                ]
+              ],
+              [
+                [
+                  14,
+                  14,
+                  13
+                ],
+                [
+                  14,
+                  14,
+                  13
+                ]
+              ],
+              [
+                [
+                  253,
+                  253,
+                  249
+                ],
+                [
+                  253,
+                  253,
+                  249
+                ]
+              ],
+              [
+                [
+                  253,
+                  253,
+                  249
+                ],
+                [
+                  253,
+                  253,
+                  249
+                ]
+              ],
+              [
+                [
+                  24,
+                  22,
+                  24
+                ],
+                [
+                  24,
+                  22,
+                  24
+                ]
+              ],
+              [
+                [
+                  165,
+                  165,
+                  165
+                ],
+                [
+                  165,
+                  165,
+                  165
+                ]
+              ],
+              [
+                [
+                  34,
+                  34,
+                  34
+                ],
+                [
+                  34,
+                  34,
+                  34
+                ]
+              ],
+              [
+                [
+                  34,
+                  34,
+                  34
+                ],
+                [
+                  34,
+                  34,
+                  34
+                ]
+              ],
+              [
+                [
+                  234,
+                  238,
+                  237
+                ],
+                [
+                  234,
+                  238,
+                  237
+                ]
+              ],
+              [
+                [
+                  34,
+                  34,
+                  34
+                ],
+                [
+                  34,
+                  34,
+                  34
+                ]
+              ],
+              [
+                [
+                  33,
+                  33,
+                  33
+                ],
+                [
+                  33,
+                  33,
+                  33
+                ]
+              ]
+            ],
+            "moveL": 0,
+            "videoSync": [
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "width": [
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 768,
+                  "portrait": 590
+                },
+                {
+                  "landscape": 1728,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 2193,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 910,
+                  "portrait": 910
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ]
+            ],
+            "borderRadius": [
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ]
+            ],
+            "step": [
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "stepLeftFirst": [
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "move": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveIndex": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "moveCenter": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveMarge": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "moveRatioHW": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "mode": [
+              {
+                "landscape": "Contain",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Contain",
+                "portrait": "Contain"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              }
+            ]
+          },
+          {
+            "color": [
+              [
+                [
+                  238,
+                  238,
+                  238
+                ],
+                [
+                  238,
+                  238,
+                  238
+                ]
+              ],
+              [
+                [
+                  10,
+                  10,
+                  10
+                ],
+                [
+                  10,
+                  10,
+                  10
+                ]
+              ],
+              [
+                [
+                  18,
+                  63,
+                  255
+                ],
+                [
+                  18,
+                  63,
+                  255
+                ]
+              ],
+              [
+                [
+                  18,
+                  63,
+                  255
+                ],
+                [
+                  18,
+                  63,
+                  255
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  1,
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  1,
+                  1
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  18,
+                  63,
+                  255
+                ],
+                [
+                  18,
+                  63,
+                  255
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            ],
+            "moveL": 0,
+            "videoSync": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "width": [
+              [
+                {
+                  "landscape": 2195,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 2195,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 2195,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ]
+            ],
+            "borderRadius": [
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ]
+            ],
+            "step": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "stepLeftFirst": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "move": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveIndex": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "moveCenter": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveMarge": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "moveRatioHW": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "mode": [
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              }
+            ]
+          },
+          {
+            "color": [
+              [
+                [
+                  3,
+                  32,
+                  41
+                ],
+                [
+                  3,
+                  32,
+                  41
+                ]
+              ],
+              [
+                [
+                  198,
+                  198,
+                  198
+                ],
+                [
+                  198,
+                  198,
+                  198
+                ]
+              ],
+              [
+                [
+                  198,
+                  198,
+                  198
+                ],
+                [
+                  198,
+                  198,
+                  198
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  59,
+                  137,
+                  246
+                ],
+                [
+                  59,
+                  137,
+                  246
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  184,
+                  184,
+                  184
+                ],
+                [
+                  184,
+                  184,
+                  184
+                ]
+              ],
+              [
+                [
+                  33,
+                  178,
+                  75
+                ],
+                [
+                  33,
+                  178,
+                  75
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  184,
+                  184,
+                  184
+                ],
+                [
+                  184,
+                  184,
+                  184
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  233,
+                  76,
+                  21
+                ],
+                [
+                  233,
+                  76,
+                  21
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ],
+              [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            ],
+            "moveL": 1,
+            "videoSync": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "width": [
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                },
+                {
+                  "landscape": 2193,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                },
+                {
+                  "landscape": 2592,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 1541,
+                  "portrait": 1057
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                },
+                {
+                  "landscape": 2592,
+                  "portrait": 1138
+                }
+              ],
+              [
+                {
+                  "landscape": 3456,
+                  "portrait": 1290
+                }
+              ]
+            ],
+            "borderRadius": [
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                },
+                {
+                  "landscape": 8,
+                  "portrait": 8
+                }
+              ],
+              [
+                {
+                  "landscape": 0,
+                  "portrait": 0
+                }
+              ]
+            ],
+            "step": [
+              true,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              true,
+              false
+            ],
+            "stepLeftFirst": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "move": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            "moveIndex": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              -1,
+              0,
+              -1,
+              -1,
+              -1
+            ],
+            "moveCenter": [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            "moveMarge": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              18,
+              0,
+              0,
+              0
+            ],
+            "moveRatioHW": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              {
+                "landscape": 5.396887159533074,
+                "portrait": 5.397350993377484
+              },
+              0,
+              0,
+              0
+            ],
+            "mode": [
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              },
+              null,
+              {
+                "landscape": "Cover",
+                "portrait": "Cover"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
