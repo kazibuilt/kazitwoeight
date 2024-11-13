@@ -87,8 +87,8 @@
                     "type": "vid",
                     "id": "r-v-ho",
                     "url": {
-                      "landscape": "https://player.vimeo.com/progressive_redirect/playback/889723061/rendition/1080p/file.mp4?loc=external&log_user=0&signature=86548faa2a674803f2103d6f1b08845ca4c451d53a3263188d9b5cd4adef3e5e",
-                      "portrait": "https://player.vimeo.com/progressive_redirect/playback/889723061/rendition/1080p/file.mp4?loc=external&log_user=0&signature=86548faa2a674803f2103d6f1b08845ca4c451d53a3263188d9b5cd4adef3e5e"
+                      "landscape": "/assets/video/home.mp4",
+                      "portrait": "/assets/video/home.mp4"
                     }
                   }
                 ]
